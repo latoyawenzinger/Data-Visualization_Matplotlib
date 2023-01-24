@@ -2,7 +2,7 @@
 
 
 
-This data composed of 249 mice who were identified with squamous cell carcinoma tumors, and were treated with different drug treatments. Over a 45 day timespan, tumor development was observed and measured. The data was cleaned and analyzed to compare the performance of Pymaceuticals’ (pharmaceutical company) drug of interest, Capomulin, against the other treatment regimens.
+This data composed of 249 mice who were identified with squamous cell carcinoma tumors, and were treated with different drug treatments. Over a 45 day timespan, tumor development was observed and measured. The data was cleaned and analyzed to compare the performance of Pymaceuticals’ (pharmaceutical company) drug of interest, **Capomulin**, against the other treatment regimens.
 
 
 
