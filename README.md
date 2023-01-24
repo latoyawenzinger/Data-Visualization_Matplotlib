@@ -8,14 +8,14 @@ This data composed of 249 mice who were identified with squamous cell carcinoma 
 
 This assignment is broken down into the following tasks:
 
-**Prepare the data
+- **Prepare the data**
 
-**Generate summary statistics
+- **Generate summary statistics**
 
-**Create bar charts and pie charts
+- **Create bar charts and pie charts**
 
-**Calculate quartiles, find outliers, and create a box plot
+- **Calculate quartiles, find outliers, and create a box plot**
 
-**Create a line plot and a scatter plot
+- **Create a line plot and a scatter plot**
 
-**Calculate correlation and regression
+- **Calculate correlation and regression**
